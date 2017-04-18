@@ -12,7 +12,7 @@
     <artifactId>semantic-actions</artifactId>
     <version>1.0.0</version>
     <properties>
-        <username>ylilianzz</username>
+        <username>lilianzz</username>
     </properties>
 
     <dependencies>
@@ -28,7 +28,7 @@
         </dependency>
         <dependency>
             <groupId>edu.vassar.cs.cmpu331</groupId>
-            <artifactId>symbol-table</artifactId>
+            <artifactId>my-symbol-table</artifactId>
             <version>1.0.0</version>
         </dependency>
     </dependencies>
